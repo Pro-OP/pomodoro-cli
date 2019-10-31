@@ -1,6 +1,6 @@
 @echo off
 cd %userprofile%
-cd downloads\pomodoro
+cd downloads\windows
  copy sound.mp3 c:\windows\system32
  copy setvol.exe c:\windows\system32
  
